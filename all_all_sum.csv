@@ -1,0 +1,523 @@
+"Ward","category","n","disciplined","sustained","open","unknown","sd_plus"
+1,"Arrest/Lock-up Procedures",117,3,1,0,8,0.036697247706422
+1,"Bribery / Official Corruption",1,0,0,0,0,0
+1,"Conduct Unbecoming (Off-duty)",12,0,1,0,1,0.0909090909090909
+1,"Criminal Misconduct",1,0,0,0,0,0
+1,"Drug/Substance Abuse",1,0,0,0,0,0
+1,"First Amendment and Illegal Arrest",119,0,0,0,13,0
+1,"Operation/Personnel Violations",208,3,3,1,23,0.0326086956521739
+1,"Search-Related",46,5,2,0,4,0.166666666666667
+1,"Traffic",16,0,0,0,0,0
+1,"Verbal Abuse",14,0,0,0,0,0
+2,"Alcohol Abuse",5,1,2,0,1,0.75
+2,"Arrest/Lock-up Procedures",237,5,3,0,15,0.036036036036036
+2,"Bribery / Official Corruption",2,1,1,0,0,1
+2,"Conduct Unbecoming (Off-duty)",47,9,8,4,8,0.485714285714286
+2,"Criminal Misconduct",4,1,1,0,1,0.666666666666667
+2,"Drug/Substance Abuse",3,0,0,0,2,0
+2,"First Amendment and Illegal Arrest",272,0,0,3,18,0
+2,"Operation/Personnel Violations",473,19,19,5,38,0.0883720930232558
+2,"Search-Related",99,2,0,0,11,0.0227272727272727
+2,"Supervisory Responsibilities",4,0,0,0,0,0
+2,"Traffic",32,0,2,0,1,0.0645161290322581
+2,"Verbal Abuse",24,1,0,0,8,0.0625
+3,"Alcohol Abuse",17,12,1,2,1,0.928571428571429
+3,"Arrest/Lock-up Procedures",242,2,1,0,7,0.0127659574468085
+3,"Bribery / Official Corruption",6,1,0,0,0,0.166666666666667
+3,"Conduct Unbecoming (Off-duty)",44,13,7,3,4,0.540540540540541
+3,"Criminal Misconduct",4,1,0,0,1,0.333333333333333
+3,"Drug/Substance Abuse",15,1,6,0,2,0.538461538461538
+3,"First Amendment and Illegal Arrest",456,0,0,2,33,0
+3,"Operation/Personnel Violations",628,40,33,7,30,0.123519458544839
+3,"Search-Related",112,3,0,0,16,0.03125
+3,"Supervisory Responsibilities",11,0,1,0,0,0.0909090909090909
+3,"Traffic",35,0,0,0,1,0
+3,"Verbal Abuse",26,0,0,0,0,0
+4,"Alcohol Abuse",15,10,1,2,1,0.916666666666667
+4,"Arrest/Lock-up Procedures",60,1,0,0,1,0.0169491525423729
+4,"Bribery / Official Corruption",4,1,0,0,0,0.25
+4,"Conduct Unbecoming (Off-duty)",17,4,4,0,2,0.533333333333333
+4,"Criminal Misconduct",3,1,0,0,1,0.5
+4,"Drug/Substance Abuse",14,1,6,0,2,0.583333333333333
+4,"First Amendment and Illegal Arrest",112,0,0,0,8,0
+4,"Operation/Personnel Violations",265,19,16,4,19,0.144628099173554
+4,"Search-Related",12,0,0,0,4,0
+4,"Supervisory Responsibilities",2,0,0,0,0,0
+4,"Traffic",9,0,0,0,1,0
+4,"Verbal Abuse",5,0,0,0,0,0
+5,"Arrest/Lock-up Procedures",201,1,3,0,8,0.0207253886010363
+5,"Bribery / Official Corruption",2,0,0,0,0,0
+5,"Conduct Unbecoming (Off-duty)",8,2,0,0,1,0.285714285714286
+5,"Criminal Misconduct",4,0,0,0,0,0
+5,"First Amendment and Illegal Arrest",511,0,0,2,30,0
+5,"Operation/Personnel Violations",463,10,8,2,32,0.041958041958042
+5,"Search-Related",65,7,0,0,2,0.111111111111111
+5,"Supervisory Responsibilities",14,0,1,0,0,0.0714285714285714
+5,"Traffic",30,0,0,0,2,0
+5,"Verbal Abuse",16,0,0,0,0,0
+6,"Arrest/Lock-up Procedures",332,1,3,1,9,0.0124223602484472
+6,"Conduct Unbecoming (Off-duty)",17,2,1,0,2,0.2
+6,"Criminal Misconduct",6,0,0,0,1,0
+6,"Drug/Substance Abuse",3,0,0,0,1,0
+6,"First Amendment and Illegal Arrest",669,0,0,5,41,0
+6,"Operation/Personnel Violations",537,13,7,1,40,0.0403225806451613
+6,"Search-Related",98,7,1,0,9,0.0898876404494382
+6,"Supervisory Responsibilities",12,0,1,0,0,0.0833333333333333
+6,"Traffic",34,0,0,0,2,0
+6,"Verbal Abuse",28,0,0,0,1,0
+7,"Arrest/Lock-up Procedures",161,2,0,0,9,0.0131578947368421
+7,"Conduct Unbecoming (Off-duty)",6,2,0,0,0,0.333333333333333
+7,"Criminal Misconduct",1,0,1,0,0,1
+7,"First Amendment and Illegal Arrest",322,1,0,0,21,0.00332225913621262
+7,"Operation/Personnel Violations",347,8,3,0,52,0.0372881355932203
+7,"Search-Related",61,0,0,0,19,0
+7,"Supervisory Responsibilities",3,1,0,0,0,0.333333333333333
+7,"Traffic",19,2,0,0,3,0.125
+7,"Verbal Abuse",12,0,0,0,1,0
+8,"Arrest/Lock-up Procedures",256,2,1,0,13,0.0123456790123457
+8,"Bribery / Official Corruption",2,0,0,0,0,0
+8,"Conduct Unbecoming (Off-duty)",14,1,0,0,0,0.0714285714285714
+8,"Criminal Misconduct",4,0,0,0,1,0
+8,"Drug/Substance Abuse",2,0,0,0,1,0
+8,"First Amendment and Illegal Arrest",502,0,0,2,41,0
+8,"Operation/Personnel Violations",526,15,7,1,55,0.0468085106382979
+8,"Search-Related",57,4,0,0,5,0.0769230769230769
+8,"Supervisory Responsibilities",9,1,0,0,0,0.111111111111111
+8,"Traffic",37,0,0,0,4,0
+8,"Verbal Abuse",26,0,0,0,1,0
+9,"Alcohol Abuse",2,1,0,0,0,0.5
+9,"Arrest/Lock-up Procedures",208,3,1,0,17,0.0209424083769634
+9,"Bribery / Official Corruption",4,0,0,0,3,0
+9,"Conduct Unbecoming (Off-duty)",22,9,1,1,0,0.476190476190476
+9,"Criminal Misconduct",2,0,0,0,1,0
+9,"Drug/Substance Abuse",1,0,0,0,0,0
+9,"First Amendment and Illegal Arrest",397,1,0,0,26,0.00269541778975741
+9,"Operation/Personnel Violations",372,20,9,0,20,0.0823863636363636
+9,"Search-Related",101,6,2,2,25,0.108108108108108
+9,"Supervisory Responsibilities",6,0,0,0,0,0
+9,"Traffic",19,1,1,0,1,0.111111111111111
+9,"Verbal Abuse",18,0,0,0,2,0
+10,"Alcohol Abuse",2,1,0,0,0,0.5
+10,"Arrest/Lock-up Procedures",215,5,0,0,19,0.0255102040816327
+10,"Bribery / Official Corruption",3,0,0,0,2,0
+10,"Conduct Unbecoming (Off-duty)",29,13,1,1,1,0.518518518518518
+10,"Criminal Misconduct",1,1,0,0,0,1
+10,"First Amendment and Illegal Arrest",344,1,0,0,15,0.00303951367781155
+10,"Operation/Personnel Violations",383,19,9,3,45,0.0835820895522388
+10,"Search-Related",142,4,2,2,43,0.0618556701030928
+10,"Supervisory Responsibilities",7,0,0,0,0,0
+10,"Traffic",15,1,1,0,5,0.2
+10,"Verbal Abuse",19,1,0,0,2,0.0588235294117647
+11,"Alcohol Abuse",2,1,1,0,0,1
+11,"Arrest/Lock-up Procedures",111,0,1,0,7,0.00961538461538462
+11,"Conduct Unbecoming (Off-duty)",10,0,0,0,2,0
+11,"Criminal Misconduct",1,0,0,0,1,NA
+11,"Drug/Substance Abuse",3,0,0,0,2,0
+11,"First Amendment and Illegal Arrest",166,0,0,0,6,0
+11,"Operation/Personnel Violations",225,4,7,0,6,0.0502283105022831
+11,"Search-Related",36,2,0,0,0,0.0555555555555556
+11,"Supervisory Responsibilities",5,0,0,0,0,0
+11,"Traffic",15,0,1,0,0,0.0666666666666667
+11,"Verbal Abuse",10,0,0,0,0,0
+12,"Alcohol Abuse",1,1,0,0,0,1
+12,"Arrest/Lock-up Procedures",167,0,1,0,6,0.0062111801242236
+12,"Bribery / Official Corruption",7,0,1,0,0,0.142857142857143
+12,"Conduct Unbecoming (Off-duty)",14,1,1,0,1,0.153846153846154
+12,"Criminal Misconduct",1,0,0,0,0,0
+12,"First Amendment and Illegal Arrest",226,0,0,0,8,0
+12,"Operation/Personnel Violations",301,13,4,2,11,0.0590277777777778
+12,"Search-Related",82,3,0,0,0,0.0365853658536585
+12,"Supervisory Responsibilities",6,0,0,0,0,0
+12,"Traffic",19,1,1,0,0,0.105263157894737
+12,"Verbal Abuse",18,0,0,0,0,0
+13,"Alcohol Abuse",3,2,1,0,0,1
+13,"Arrest/Lock-up Procedures",134,2,3,0,6,0.0390625
+13,"Bribery / Official Corruption",7,0,0,0,0,0
+13,"Conduct Unbecoming (Off-duty)",20,1,0,0,9,0.0909090909090909
+13,"Criminal Misconduct",2,1,1,0,0,1
+13,"Drug/Substance Abuse",1,0,0,0,0,0
+13,"First Amendment and Illegal Arrest",106,1,0,0,13,0.010752688172043
+13,"Operation/Personnel Violations",170,7,1,2,16,0.0526315789473684
+13,"Search-Related",24,1,0,0,1,0.0434782608695652
+13,"Supervisory Responsibilities",5,0,0,0,0,0
+13,"Traffic",18,0,0,0,4,0
+13,"Verbal Abuse",15,0,0,0,5,0
+14,"Alcohol Abuse",1,1,0,0,0,1
+14,"Arrest/Lock-up Procedures",127,0,0,0,5,0
+14,"Conduct Unbecoming (Off-duty)",6,0,0,0,1,0
+14,"First Amendment and Illegal Arrest",170,0,0,0,13,0
+14,"Operation/Personnel Violations",239,6,3,2,7,0.0391304347826087
+14,"Search-Related",44,2,0,0,3,0.0487804878048781
+14,"Supervisory Responsibilities",8,0,0,0,0,0
+14,"Traffic",14,1,1,0,2,0.166666666666667
+14,"Verbal Abuse",10,0,0,0,0,0
+15,"Alcohol Abuse",1,1,0,0,0,1
+15,"Arrest/Lock-up Procedures",192,1,1,0,9,0.0109289617486339
+15,"Bribery / Official Corruption",3,0,0,0,0,0
+15,"Conduct Unbecoming (Off-duty)",10,2,1,0,1,0.333333333333333
+15,"Criminal Misconduct",1,0,0,0,0,0
+15,"First Amendment and Illegal Arrest",357,0,0,0,27,0
+15,"Operation/Personnel Violations",319,15,4,4,30,0.0666666666666667
+15,"Search-Related",83,1,2,0,4,0.0379746835443038
+15,"Supervisory Responsibilities",5,0,0,0,1,0
+15,"Traffic",27,0,0,3,1,0
+15,"Verbal Abuse",19,0,0,0,2,0
+16,"Alcohol Abuse",1,1,0,0,0,1
+16,"Arrest/Lock-up Procedures",308,1,1,1,9,0.00671140939597315
+16,"Bribery / Official Corruption",6,0,0,0,0,0
+16,"Conduct Unbecoming (Off-duty)",11,2,1,0,1,0.3
+16,"Drug/Substance Abuse",1,0,0,0,0,0
+16,"First Amendment and Illegal Arrest",551,0,0,0,32,0
+16,"Operation/Personnel Violations",519,48,6,1,34,0.111570247933884
+16,"Search-Related",120,3,2,0,13,0.0467289719626168
+16,"Supervisory Responsibilities",6,0,0,0,0,0
+16,"Traffic",36,1,0,3,2,0.032258064516129
+16,"Verbal Abuse",34,0,0,0,2,0
+17,"Arrest/Lock-up Procedures",314,1,2,1,9,0.00986842105263158
+17,"Conduct Unbecoming (Off-duty)",11,2,0,0,2,0.222222222222222
+17,"Criminal Misconduct",2,0,0,0,0,0
+17,"Drug/Substance Abuse",3,0,0,0,0,0
+17,"First Amendment and Illegal Arrest",615,0,0,1,47,0
+17,"Operation/Personnel Violations",422,17,12,4,39,0.0765171503957784
+17,"Search-Related",126,2,0,0,11,0.0173913043478261
+17,"Supervisory Responsibilities",5,0,0,0,1,0
+17,"Traffic",35,0,0,1,0,0
+17,"Verbal Abuse",28,0,0,0,3,0
+18,"Alcohol Abuse",1,1,0,0,0,1
+18,"Arrest/Lock-up Procedures",129,1,2,0,5,0.0241935483870968
+18,"Conduct Unbecoming (Off-duty)",14,0,1,0,6,0.125
+18,"First Amendment and Illegal Arrest",166,2,1,0,15,0.0198675496688742
+18,"Operation/Personnel Violations",168,1,0,2,19,0.00680272108843537
+18,"Search-Related",28,0,0,0,3,0
+18,"Supervisory Responsibilities",6,0,0,0,1,0
+18,"Traffic",28,2,0,1,0,0.0740740740740741
+18,"Verbal Abuse",7,0,0,0,1,0
+19,"Alcohol Abuse",3,1,1,0,0,0.666666666666667
+19,"Arrest/Lock-up Procedures",67,2,1,0,2,0.0461538461538462
+19,"Conduct Unbecoming (Off-duty)",17,2,0,1,2,0.142857142857143
+19,"Criminal Misconduct",3,0,0,0,0,0
+19,"First Amendment and Illegal Arrest",98,1,0,1,8,0.0112359550561798
+19,"Operation/Personnel Violations",165,15,3,2,6,0.114649681528662
+19,"Search-Related",33,0,1,0,5,0.0357142857142857
+19,"Supervisory Responsibilities",9,0,0,0,0,0
+19,"Traffic",12,0,0,0,0,0
+19,"Verbal Abuse",12,0,0,0,1,0
+20,"Alcohol Abuse",1,1,0,0,0,1
+20,"Arrest/Lock-up Procedures",290,1,3,1,9,0.0142857142857143
+20,"Bribery / Official Corruption",5,0,0,0,0,0
+20,"Conduct Unbecoming (Off-duty)",20,5,1,0,2,0.333333333333333
+20,"Criminal Misconduct",2,0,0,0,0,0
+20,"Drug/Substance Abuse",1,0,0,0,0,0
+20,"First Amendment and Illegal Arrest",602,0,0,2,32,0
+20,"Operation/Personnel Violations",638,49,14,2,34,0.104651162790698
+20,"Search-Related",123,5,1,0,13,0.0545454545454545
+20,"Supervisory Responsibilities",13,0,1,0,0,0.0769230769230769
+20,"Traffic",40,0,0,0,2,0
+20,"Verbal Abuse",27,0,0,0,1,0
+21,"Arrest/Lock-up Procedures",273,4,4,0,10,0.0304182509505703
+21,"Bribery / Official Corruption",1,0,0,0,0,0
+21,"Conduct Unbecoming (Off-duty)",23,3,1,1,3,0.210526315789474
+21,"Criminal Misconduct",6,0,0,0,1,0
+21,"Drug/Substance Abuse",3,0,0,0,0,0
+21,"First Amendment and Illegal Arrest",541,3,1,1,61,0.00835073068893528
+21,"Operation/Personnel Violations",503,28,13,3,28,0.086864406779661
+21,"Search-Related",100,2,1,0,9,0.032967032967033
+21,"Supervisory Responsibilities",9,0,0,0,0,0
+21,"Traffic",31,0,0,1,1,0
+21,"Verbal Abuse",45,0,0,0,1,0
+22,"Arrest/Lock-up Procedures",34,0,0,0,1,0
+22,"Conduct Unbecoming (Off-duty)",1,0,0,0,0,0
+22,"First Amendment and Illegal Arrest",72,0,0,0,10,0
+22,"Operation/Personnel Violations",62,5,2,4,2,0.125
+22,"Search-Related",35,1,0,0,0,0.0285714285714286
+22,"Traffic",7,0,0,0,0,0
+22,"Verbal Abuse",3,0,0,0,0,0
+23,"Alcohol Abuse",2,1,1,0,0,1
+23,"Arrest/Lock-up Procedures",99,1,1,0,3,0.0208333333333333
+23,"Bribery / Official Corruption",7,0,0,0,0,0
+23,"Conduct Unbecoming (Off-duty)",13,0,0,0,4,0
+23,"Criminal Misconduct",2,1,1,0,0,1
+23,"Drug/Substance Abuse",1,0,0,0,0,0
+23,"First Amendment and Illegal Arrest",96,1,0,0,11,0.0117647058823529
+23,"Operation/Personnel Violations",99,3,1,0,5,0.0425531914893617
+23,"Search-Related",17,0,0,0,3,0
+23,"Supervisory Responsibilities",5,0,0,0,0,0
+23,"Traffic",11,0,0,0,4,0
+23,"Verbal Abuse",13,0,0,0,4,0
+24,"Arrest/Lock-up Procedures",200,2,2,0,18,0.021978021978022
+24,"Bribery / Official Corruption",6,0,1,0,0,0.166666666666667
+24,"Conduct Unbecoming (Off-duty)",22,11,3,0,0,0.636363636363636
+24,"Criminal Misconduct",2,0,1,0,0,0.5
+24,"First Amendment and Illegal Arrest",457,0,0,2,14,0
+24,"Operation/Personnel Violations",350,28,14,5,18,0.128440366972477
+24,"Search-Related",124,6,3,2,7,0.0782608695652174
+24,"Supervisory Responsibilities",6,0,0,0,0,0
+24,"Traffic",6,0,0,0,2,0
+24,"Verbal Abuse",20,0,0,0,1,0
+25,"Alcohol Abuse",3,1,1,0,1,1
+25,"Arrest/Lock-up Procedures",119,5,2,0,3,0.0603448275862069
+25,"Bribery / Official Corruption",2,0,0,0,0,0
+25,"Conduct Unbecoming (Off-duty)",30,10,5,3,3,0.625
+25,"Criminal Misconduct",2,0,0,0,0,0
+25,"First Amendment and Illegal Arrest",153,0,0,3,10,0
+25,"Operation/Personnel Violations",279,11,10,4,13,0.0801526717557252
+25,"Search-Related",59,1,0,0,5,0.0185185185185185
+25,"Supervisory Responsibilities",1,0,0,0,0,0
+25,"Traffic",15,0,2,0,0,0.133333333333333
+25,"Verbal Abuse",14,1,0,0,0,0.0714285714285714
+26,"Alcohol Abuse",1,0,0,0,0,0
+26,"Arrest/Lock-up Procedures",111,1,0,0,5,0.00943396226415094
+26,"Bribery / Official Corruption",2,0,0,0,1,0
+26,"Conduct Unbecoming (Off-duty)",6,0,1,0,0,0.166666666666667
+26,"First Amendment and Illegal Arrest",238,0,0,0,19,0
+26,"Operation/Personnel Violations",216,4,3,0,23,0.0362694300518135
+26,"Search-Related",63,2,0,0,2,0.0327868852459016
+26,"Supervisory Responsibilities",4,0,0,0,0,0
+26,"Traffic",9,0,0,0,1,0
+26,"Verbal Abuse",9,0,0,0,1,0
+27,"Alcohol Abuse",3,1,1,0,1,1
+27,"Arrest/Lock-up Procedures",253,6,2,0,7,0.032520325203252
+27,"Bribery / Official Corruption",3,1,1,0,0,0.666666666666667
+27,"Conduct Unbecoming (Off-duty)",28,4,7,0,3,0.44
+27,"Criminal Misconduct",1,0,0,0,0,0
+27,"First Amendment and Illegal Arrest",398,0,0,3,44,0
+27,"Operation/Personnel Violations",440,13,3,2,30,0.0392156862745098
+27,"Search-Related",72,1,0,0,3,0.0144927536231884
+27,"Supervisory Responsibilities",3,0,0,0,0,0
+27,"Traffic",28,0,1,0,0,0.0357142857142857
+27,"Verbal Abuse",32,1,0,0,7,0.04
+28,"Arrest/Lock-up Procedures",362,4,1,0,13,0.0143266475644699
+28,"Bribery / Official Corruption",3,0,0,0,0,0
+28,"Conduct Unbecoming (Off-duty)",28,11,2,0,1,0.481481481481481
+28,"Criminal Misconduct",4,0,1,0,0,0.25
+28,"First Amendment and Illegal Arrest",832,0,0,4,59,0
+28,"Operation/Personnel Violations",571,31,16,3,33,0.0878504672897196
+28,"Search-Related",114,8,3,2,6,0.10377358490566
+28,"Supervisory Responsibilities",8,0,0,0,0,0
+28,"Traffic",31,0,0,0,3,0
+28,"Verbal Abuse",54,1,0,0,12,0.0238095238095238
+29,"Arrest/Lock-up Procedures",148,4,1,0,5,0.034965034965035
+29,"Bribery / Official Corruption",3,0,0,0,0,0
+29,"Conduct Unbecoming (Off-duty)",7,2,1,0,1,0.5
+29,"Criminal Misconduct",1,0,0,0,0,0
+29,"First Amendment and Illegal Arrest",311,0,0,0,39,0
+29,"Operation/Personnel Violations",261,12,6,0,22,0.0753138075313808
+29,"Search-Related",72,6,3,0,8,0.140625
+29,"Supervisory Responsibilities",10,1,0,0,0,0.1
+29,"Traffic",8,0,0,0,1,0
+29,"Verbal Abuse",21,0,0,0,0,0
+30,"Arrest/Lock-up Procedures",94,1,1,0,5,0.0224719101123595
+30,"Conduct Unbecoming (Off-duty)",6,0,1,0,1,0.2
+30,"Criminal Misconduct",1,0,0,0,0,0
+30,"Drug/Substance Abuse",1,0,0,0,0,0
+30,"First Amendment and Illegal Arrest",138,0,0,0,15,0
+30,"Operation/Personnel Violations",235,7,4,1,14,0.05
+30,"Search-Related",73,2,2,0,8,0.0615384615384615
+30,"Supervisory Responsibilities",4,1,0,0,0,0.25
+30,"Traffic",9,0,0,2,0,0
+30,"Verbal Abuse",14,0,0,0,1,0
+31,"Arrest/Lock-up Procedures",111,1,1,0,4,0.0186915887850467
+31,"Bribery / Official Corruption",3,0,0,0,0,0
+31,"Conduct Unbecoming (Off-duty)",5,0,1,0,1,0.25
+31,"First Amendment and Illegal Arrest",121,0,0,0,14,0
+31,"Operation/Personnel Violations",226,8,4,0,14,0.0566037735849057
+31,"Search-Related",73,2,2,4,8,0.0655737704918033
+31,"Supervisory Responsibilities",4,1,0,0,0,0.25
+31,"Traffic",12,0,0,0,0,0
+31,"Verbal Abuse",15,0,0,0,0,0
+32,"Arrest/Lock-up Procedures",126,1,1,0,6,0.0166666666666667
+32,"Bribery / Official Corruption",2,0,0,0,0,0
+32,"Conduct Unbecoming (Off-duty)",20,5,6,0,0,0.55
+32,"First Amendment and Illegal Arrest",82,0,0,0,12,0
+32,"Operation/Personnel Violations",249,8,6,2,16,0.0606060606060606
+32,"Search-Related",75,5,2,0,4,0.0985915492957746
+32,"Traffic",16,0,0,0,1,0
+32,"Verbal Abuse",27,1,0,0,3,0.0416666666666667
+33,"Alcohol Abuse",2,0,0,0,0,0
+33,"Arrest/Lock-up Procedures",36,2,0,0,2,0.0588235294117647
+33,"Conduct Unbecoming (Off-duty)",3,0,0,0,0,0
+33,"Criminal Misconduct",2,0,0,0,0,0
+33,"Drug/Substance Abuse",1,0,0,0,0,0
+33,"First Amendment and Illegal Arrest",64,0,0,0,14,0
+33,"Operation/Personnel Violations",75,3,0,1,15,0.0508474576271186
+33,"Search-Related",10,0,0,0,2,0
+33,"Traffic",3,0,0,0,1,0
+33,"Verbal Abuse",5,0,0,0,0,0
+34,"Alcohol Abuse",3,1,0,0,0,0.333333333333333
+34,"Arrest/Lock-up Procedures",135,2,2,0,10,0.032
+34,"Bribery / Official Corruption",2,0,0,0,2,NA
+34,"Conduct Unbecoming (Off-duty)",10,2,0,1,2,0.285714285714286
+34,"Criminal Misconduct",1,0,0,0,0,0
+34,"First Amendment and Illegal Arrest",310,1,0,0,19,0.00343642611683849
+34,"Operation/Personnel Violations",287,19,4,2,12,0.0842490842490843
+34,"Search-Related",68,2,1,0,27,0.0731707317073171
+34,"Supervisory Responsibilities",10,0,0,0,0,0
+34,"Traffic",14,0,1,0,1,0.0769230769230769
+34,"Verbal Abuse",20,0,0,0,2,0
+35,"Alcohol Abuse",2,0,0,0,0,0
+35,"Arrest/Lock-up Procedures",90,3,1,0,2,0.0454545454545455
+35,"Bribery / Official Corruption",1,0,0,0,1,NA
+35,"Conduct Unbecoming (Off-duty)",7,0,1,0,0,0.142857142857143
+35,"Criminal Misconduct",1,0,0,0,0,0
+35,"Drug/Substance Abuse",1,0,0,0,0,0
+35,"First Amendment and Illegal Arrest",160,0,0,0,12,0
+35,"Operation/Personnel Violations",163,5,3,0,22,0.0567375886524823
+35,"Search-Related",44,1,0,0,6,0.0263157894736842
+35,"Supervisory Responsibilities",3,0,0,0,0,0
+35,"Traffic",6,0,0,0,2,0
+35,"Verbal Abuse",6,0,0,0,0,0
+36,"Arrest/Lock-up Procedures",35,3,0,0,0,0.0857142857142857
+36,"Conduct Unbecoming (Off-duty)",10,2,1,0,0,0.3
+36,"Criminal Misconduct",1,0,0,0,0,0
+36,"Drug/Substance Abuse",1,0,0,0,0,0
+36,"First Amendment and Illegal Arrest",77,0,0,0,6,0
+36,"Operation/Personnel Violations",74,3,2,1,1,0.0694444444444444
+36,"Search-Related",15,0,0,0,2,0
+36,"Traffic",4,0,0,0,0,0
+36,"Verbal Abuse",8,0,0,0,1,0
+37,"Arrest/Lock-up Procedures",169,5,0,0,9,0.03125
+37,"Bribery / Official Corruption",3,0,0,0,0,0
+37,"Conduct Unbecoming (Off-duty)",4,0,0,0,0,0
+37,"First Amendment and Illegal Arrest",372,0,0,0,30,0
+37,"Operation/Personnel Violations",250,10,4,0,19,0.0606060606060606
+37,"Search-Related",82,2,2,4,8,0.0571428571428571
+37,"Supervisory Responsibilities",7,1,0,0,0,0.142857142857143
+37,"Traffic",16,0,0,0,1,0
+37,"Verbal Abuse",24,0,0,0,3,0
+38,"Alcohol Abuse",1,0,0,1,0,NA
+38,"Arrest/Lock-up Procedures",54,2,1,0,3,0.0588235294117647
+38,"Conduct Unbecoming (Off-duty)",20,2,2,0,1,0.210526315789474
+38,"Criminal Misconduct",4,0,1,0,0,0.25
+38,"Drug/Substance Abuse",2,0,0,0,0,0
+38,"First Amendment and Illegal Arrest",81,0,0,0,8,0
+38,"Operation/Personnel Violations",129,5,2,2,2,0.056
+38,"Search-Related",15,0,0,0,0,0
+38,"Supervisory Responsibilities",3,0,0,0,0,0
+38,"Traffic",11,0,0,2,0,0
+38,"Verbal Abuse",8,0,0,0,1,0
+39,"Alcohol Abuse",2,0,0,0,0,0
+39,"Arrest/Lock-up Procedures",50,1,0,0,2,0.0208333333333333
+39,"Conduct Unbecoming (Off-duty)",8,1,0,0,3,0.2
+39,"Criminal Misconduct",1,0,0,0,0,0
+39,"First Amendment and Illegal Arrest",49,0,0,0,6,0
+39,"Operation/Personnel Violations",94,4,0,1,5,0.0454545454545455
+39,"Search-Related",7,0,0,0,2,0
+39,"Supervisory Responsibilities",3,0,0,0,0,0
+39,"Traffic",3,0,0,0,1,0
+39,"Verbal Abuse",8,0,0,0,0,0
+40,"Alcohol Abuse",2,2,0,0,0,1
+40,"Arrest/Lock-up Procedures",33,1,0,0,2,0.032258064516129
+40,"Bribery / Official Corruption",4,0,0,0,0,0
+40,"Conduct Unbecoming (Off-duty)",10,5,1,0,2,0.75
+40,"Criminal Misconduct",1,0,0,0,0,0
+40,"First Amendment and Illegal Arrest",59,0,0,1,18,0
+40,"Operation/Personnel Violations",131,2,3,0,28,0.0485436893203883
+40,"Search-Related",21,0,0,0,5,0
+40,"Supervisory Responsibilities",1,0,0,0,0,0
+40,"Traffic",7,0,0,0,0,0
+40,"Verbal Abuse",9,0,0,0,0,0
+41,"Alcohol Abuse",3,1,0,0,2,1
+41,"Arrest/Lock-up Procedures",51,2,0,0,5,0.0434782608695652
+41,"Conduct Unbecoming (Off-duty)",15,2,0,0,0,0.133333333333333
+41,"Criminal Misconduct",5,0,2,0,1,0.5
+41,"Drug/Substance Abuse",1,0,0,1,0,NA
+41,"First Amendment and Illegal Arrest",22,0,1,0,4,0.0555555555555556
+41,"Operation/Personnel Violations",50,1,2,1,0,0.0612244897959184
+41,"Traffic",6,0,0,0,1,0
+41,"Verbal Abuse",5,0,0,0,1,0
+42,"Arrest/Lock-up Procedures",197,1,2,0,7,0.0157894736842105
+42,"Bribery / Official Corruption",2,1,1,0,0,1
+42,"Conduct Unbecoming (Off-duty)",35,7,4,4,3,0.392857142857143
+42,"Criminal Misconduct",2,1,1,0,0,1
+42,"First Amendment and Illegal Arrest",148,0,0,0,13,0
+42,"Operation/Personnel Violations",324,14,14,4,25,0.0949152542372881
+42,"Search-Related",74,3,0,0,10,0.046875
+42,"Supervisory Responsibilities",3,0,0,0,0,0
+42,"Traffic",21,0,0,0,1,0
+42,"Verbal Abuse",26,0,0,0,3,0
+43,"Arrest/Lock-up Procedures",76,0,0,0,2,0
+43,"Conduct Unbecoming (Off-duty)",13,4,5,0,0,0.692307692307692
+43,"First Amendment and Illegal Arrest",57,0,0,0,8,0
+43,"Operation/Personnel Violations",139,6,2,2,6,0.0610687022900763
+43,"Search-Related",18,0,0,0,3,0
+43,"Traffic",8,0,0,0,0,0
+43,"Verbal Abuse",17,1,0,0,2,0.0666666666666667
+44,"Alcohol Abuse",1,1,0,0,0,1
+44,"Arrest/Lock-up Procedures",45,0,0,0,0,0
+44,"Bribery / Official Corruption",1,0,0,0,0,0
+44,"Conduct Unbecoming (Off-duty)",7,2,1,0,0,0.428571428571429
+44,"First Amendment and Illegal Arrest",16,0,0,0,0,0
+44,"Operation/Personnel Violations",103,3,4,0,1,0.0686274509803922
+44,"Search-Related",28,0,0,0,0,0
+44,"Supervisory Responsibilities",1,0,0,0,0,0
+44,"Traffic",7,0,0,0,1,0
+44,"Verbal Abuse",11,1,0,0,4,0.142857142857143
+45,"Alcohol Abuse",1,0,0,1,0,NA
+45,"Arrest/Lock-up Procedures",62,3,2,0,9,0.0943396226415094
+45,"Conduct Unbecoming (Off-duty)",16,1,0,0,4,0.0833333333333333
+45,"Criminal Misconduct",5,0,1,0,1,0.25
+45,"Drug/Substance Abuse",3,0,0,1,1,0
+45,"First Amendment and Illegal Arrest",64,0,0,0,4,0
+45,"Operation/Personnel Violations",100,7,1,1,2,0.0824742268041237
+45,"Search-Related",9,1,0,0,0,0.111111111111111
+45,"Supervisory Responsibilities",3,0,0,0,0,0
+45,"Traffic",10,0,0,2,0,0
+45,"Verbal Abuse",3,0,0,0,0,0
+46,"Alcohol Abuse",1,1,0,0,0,1
+46,"Arrest/Lock-up Procedures",63,2,0,0,1,0.032258064516129
+46,"Bribery / Official Corruption",1,0,0,0,0,0
+46,"Conduct Unbecoming (Off-duty)",4,2,0,0,0,0.5
+46,"First Amendment and Illegal Arrest",85,0,0,0,8,0
+46,"Operation/Personnel Violations",125,3,3,0,14,0.0540540540540541
+46,"Search-Related",23,1,0,0,1,0.0454545454545455
+46,"Supervisory Responsibilities",1,0,0,0,0,0
+46,"Traffic",4,0,0,0,1,0
+46,"Verbal Abuse",13,0,0,0,3,0
+47,"Alcohol Abuse",3,2,1,0,0,1
+47,"Arrest/Lock-up Procedures",55,0,1,0,3,0.0192307692307692
+47,"Bribery / Official Corruption",1,0,0,0,0,0
+47,"Conduct Unbecoming (Off-duty)",8,1,0,1,2,0.2
+47,"Criminal Misconduct",1,0,0,0,0,0
+47,"First Amendment and Illegal Arrest",62,0,0,0,18,0
+47,"Operation/Personnel Violations",111,6,5,0,17,0.117021276595745
+47,"Search-Related",37,3,2,0,1,0.138888888888889
+47,"Traffic",3,0,0,0,1,0
+47,"Verbal Abuse",8,0,0,0,1,0
+48,"Arrest/Lock-up Procedures",70,1,0,0,3,0.0149253731343284
+48,"Bribery / Official Corruption",5,0,0,0,0,0
+48,"Conduct Unbecoming (Off-duty)",8,3,2,0,1,0.714285714285714
+48,"First Amendment and Illegal Arrest",112,0,0,0,15,0
+48,"Operation/Personnel Violations",133,2,2,2,15,0.0344827586206897
+48,"Search-Related",21,1,0,0,3,0.0555555555555556
+48,"Traffic",5,0,0,0,0,0
+48,"Verbal Abuse",15,0,0,0,2,0
+49,"Arrest/Lock-up Procedures",60,1,1,0,1,0.0338983050847458
+49,"Bribery / Official Corruption",2,0,0,0,0,0
+49,"Conduct Unbecoming (Off-duty)",8,3,1,0,0,0.5
+49,"Criminal Misconduct",2,0,2,0,0,1
+49,"First Amendment and Illegal Arrest",76,0,0,0,5,0
+49,"Operation/Personnel Violations",92,0,2,0,8,0.0238095238095238
+49,"Search-Related",10,0,0,0,2,0
+49,"Supervisory Responsibilities",1,1,0,0,0,1
+49,"Traffic",5,0,0,0,0,0
+49,"Verbal Abuse",11,0,0,0,2,0
+50,"Arrest/Lock-up Procedures",49,0,0,0,3,0
+50,"Bribery / Official Corruption",2,0,0,0,0,0
+50,"Conduct Unbecoming (Off-duty)",7,3,1,0,1,0.666666666666667
+50,"First Amendment and Illegal Arrest",48,0,0,1,6,0
+50,"Operation/Personnel Violations",102,0,2,0,15,0.0229885057471264
+50,"Search-Related",10,0,0,0,2,0
+50,"Traffic",12,0,0,0,0,0
+50,"Verbal Abuse",7,0,0,0,0,0
+NA,"Alcohol Abuse",98,52,14,3,12,0.795180722891566
+NA,"Arrest/Lock-up Procedures",10362,184,55,1,861,0.0251578947368421
+NA,"Bribery / Official Corruption",93,7,3,0,13,0.125
+NA,"Conduct Unbecoming (Off-duty)",746,156,55,8,76,0.318731117824773
+NA,"Criminal Misconduct",280,18,25,1,29,0.172
+NA,"Drug/Substance Abuse",66,9,9,1,8,0.315789473684211
+NA,"First Amendment and Illegal Arrest",12843,51,18,16,714,0.00569635928341451
+NA,"Operation/Personnel Violations",12462,989,247,39,719,0.105604921394395
+NA,"Search-Related",2259,148,20,8,184,0.081277213352685
+NA,"Supervisory Responsibilities",602,16,6,0,15,0.0374787052810903
+NA,"Traffic",853,21,7,6,36,0.0345252774352651
+NA,"Verbal Abuse",1492,28,3,0,77,0.0219081272084806
